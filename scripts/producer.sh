@@ -1,0 +1,1 @@
+python ../cmd/producer/main.py
